@@ -21,5 +21,5 @@ Dart
 
 
 #### Form Validation
- <img src="screenshots/image copy.png" width="180">
+ <img src="screenshots/image copy.png" width="300">
 
