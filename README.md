@@ -12,9 +12,10 @@ Technologies
 Flutter
 Dart
 Screenshots
+
 Home Page
-![Home Page](screenshots/image.png)
+ <img src="screenshots/image.png" width="400">
 
 
 Form Validation
-![Validation](screenshots/image copy.png)
+![Validation](screenshots/imagecopy.png)
